@@ -1,1 +1,3 @@
-# GIP-Box2dWeb-EaselJS-Tuto1
+# Game in Progress
+
+## Box2d Web & EaselJS - Tuto 1 : bouncing pigs
