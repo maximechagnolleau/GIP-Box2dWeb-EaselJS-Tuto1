@@ -4,16 +4,12 @@
 
 ### Présentation
 
-Ce projet est une initiation à la bibliothèque EaselJS. Il présente les fonctionnalités de base de cette bilbiothèque graphique :
-* fonctionnement de la bibliothèque EaselJS,
-* dessiner des formes géométriques dans le canvas,
-* afficher du texte et gérer les événements de clic et de survol,
-* afficher et déplacer des bitmaps dans le canvas.
+Ce projet présente comment faire cohabiter les bibliotèques Box2d Web (moteur physique) et EaselJS (moteur graphique).
 
 ### Liens
 
-Voir le [résultat final](http://maxime.chagnolleau.free.fr/tuto/easeljs/tuto1/GIP_tuto_easeljs_1/)
+Voir le [résultat final](http://maxime.chagnolleau.free.fr/tuto/box2dweb_easeljs/tuto1/GIP_tuto_box2d_easeljs_1/)
 
-Accéder au [tutoriel](https://maximechagnolleau.wordpress.com/2014/06/01/easeljs-tuto-1-dessine-moi-un-menu/)
+Accéder au [tutoriel](https://maximechagnolleau.wordpress.com/2014/08/03/box2d-web-easeljs-tuto-1-bouncing-pigs/)
 
 [Retour](https://github.com/maximechagnolleau/gameinprogress)
